@@ -1,1 +1,1 @@
-# CYPRESSSAMPLEPROJECT
+# CypressSampleProject
